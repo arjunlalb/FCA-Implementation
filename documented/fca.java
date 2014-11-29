@@ -1,3 +1,9 @@
+//Authored by Arjunlal
+//Eclipse
+//Implementation of Formal Concept Analysis Algorithm
+//Outputs a concept lattice for the given data set
+//Course Project for Knowledge Representation and Reasoning
+
 import java.io.*;
 import java.util.*;
 
